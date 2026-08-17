@@ -7,5 +7,5 @@ class Solution {
                  }
            }
         }
-      return new int[]{1,3};   }
+      return new int[]{};   }
 }
