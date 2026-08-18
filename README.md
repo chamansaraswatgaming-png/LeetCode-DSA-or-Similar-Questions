@@ -23,4 +23,8 @@ LeetCode-DSA or Similar Questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/chamansaraswatgaming-png/LeetCode-DSA-or-Similar-Questions/tree/main/0217-contains-duplicate/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/chamansaraswatgaming-png/LeetCode-DSA-or-Similar-Questions/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
