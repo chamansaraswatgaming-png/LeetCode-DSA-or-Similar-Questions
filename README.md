@@ -15,22 +15,34 @@ LeetCode-DSA or Similar Questions
 | [0001-two-sum](https://github.com/chamansaraswatgaming-png/LeetCode-DSA-or-Similar-Questions/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/chamansaraswatgaming-png/LeetCode-DSA-or-Similar-Questions/tree/main/0015-3sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/chamansaraswatgaming-png/LeetCode-DSA-or-Similar-Questions/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/chamansaraswatgaming-png/LeetCode-DSA-or-Similar-Questions/tree/main/0268-missing-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/chamansaraswatgaming-png/LeetCode-DSA-or-Similar-Questions/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/chamansaraswatgaming-png/LeetCode-DSA-or-Similar-Questions/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/chamansaraswatgaming-png/LeetCode-DSA-or-Similar-Questions/tree/main/0268-missing-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/chamansaraswatgaming-png/LeetCode-DSA-or-Similar-Questions/tree/main/0015-3sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/chamansaraswatgaming-png/LeetCode-DSA-or-Similar-Questions/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/chamansaraswatgaming-png/LeetCode-DSA-or-Similar-Questions/tree/main/0268-missing-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/chamansaraswatgaming-png/LeetCode-DSA-or-Similar-Questions/tree/main/0009-palindrome-number/) | Easy |
+| [0268-missing-number](https://github.com/chamansaraswatgaming-png/LeetCode-DSA-or-Similar-Questions/tree/main/0268-missing-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/chamansaraswatgaming-png/LeetCode-DSA-or-Similar-Questions/tree/main/0015-3sum/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/chamansaraswatgaming-png/LeetCode-DSA-or-Similar-Questions/tree/main/0268-missing-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/chamansaraswatgaming-png/LeetCode-DSA-or-Similar-Questions/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
