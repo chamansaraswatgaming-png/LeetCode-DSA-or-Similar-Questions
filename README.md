@@ -18,12 +18,14 @@ LeetCode-DSA or Similar Questions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chamansaraswatgaming-png/LeetCode-DSA-or-Similar-Questions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/chamansaraswatgaming-png/LeetCode-DSA-or-Similar-Questions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/chamansaraswatgaming-png/LeetCode-DSA-or-Similar-Questions/tree/main/0268-missing-number/) | Easy |
+| [3843-first-element-with-unique-frequency](https://github.com/chamansaraswatgaming-png/LeetCode-DSA-or-Similar-Questions/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/chamansaraswatgaming-png/LeetCode-DSA-or-Similar-Questions/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/chamansaraswatgaming-png/LeetCode-DSA-or-Similar-Questions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/chamansaraswatgaming-png/LeetCode-DSA-or-Similar-Questions/tree/main/0268-missing-number/) | Easy |
+| [3843-first-element-with-unique-frequency](https://github.com/chamansaraswatgaming-png/LeetCode-DSA-or-Similar-Questions/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,4 +50,8 @@ LeetCode-DSA or Similar Questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/chamansaraswatgaming-png/LeetCode-DSA-or-Similar-Questions/tree/main/0268-missing-number/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3843-first-element-with-unique-frequency](https://github.com/chamansaraswatgaming-png/LeetCode-DSA-or-Similar-Questions/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 <!---LeetCode Topics End-->
