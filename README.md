@@ -38,6 +38,7 @@ LeetCode-DSA or Similar Questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/chamansaraswatgaming-png/LeetCode-DSA-or-Similar-Questions/tree/main/0009-palindrome-number/) | Easy |
+| [0231-power-of-two](https://github.com/chamansaraswatgaming-png/LeetCode-DSA-or-Similar-Questions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/chamansaraswatgaming-png/LeetCode-DSA-or-Similar-Questions/tree/main/0268-missing-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -51,9 +52,14 @@ LeetCode-DSA or Similar Questions
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/chamansaraswatgaming-png/LeetCode-DSA-or-Similar-Questions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/chamansaraswatgaming-png/LeetCode-DSA-or-Similar-Questions/tree/main/0268-missing-number/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3843-first-element-with-unique-frequency](https://github.com/chamansaraswatgaming-png/LeetCode-DSA-or-Similar-Questions/tree/main/3843-first-element-with-unique-frequency/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/chamansaraswatgaming-png/LeetCode-DSA-or-Similar-Questions/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
