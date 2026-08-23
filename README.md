@@ -46,6 +46,7 @@ LeetCode-DSA or Similar Questions
 | [0015-3sum](https://github.com/chamansaraswatgaming-png/LeetCode-DSA-or-Similar-Questions/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chamansaraswatgaming-png/LeetCode-DSA-or-Similar-Questions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/chamansaraswatgaming-png/LeetCode-DSA-or-Similar-Questions/tree/main/0125-valid-palindrome/) | Easy |
+| [0344-reverse-string](https://github.com/chamansaraswatgaming-png/LeetCode-DSA-or-Similar-Questions/tree/main/0344-reverse-string/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,4 +68,5 @@ LeetCode-DSA or Similar Questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/chamansaraswatgaming-png/LeetCode-DSA-or-Similar-Questions/tree/main/0125-valid-palindrome/) | Easy |
+| [0344-reverse-string](https://github.com/chamansaraswatgaming-png/LeetCode-DSA-or-Similar-Questions/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
